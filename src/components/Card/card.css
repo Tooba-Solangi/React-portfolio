@@ -1,0 +1,55 @@
+.cardhding{
+
+text-align: center;
+font-family: Outfit;
+
+}
+.pra{
+    text-align: center;
+    font-family: DM Sans;
+
+}
+
+
+.background-color{
+
+
+ background: #F5F4F0;
+
+
+
+
+
+
+}
+
+.block{
+
+    border: 1px solid #E8E8E8;
+background: #FFFFFF;
+
+}
+
+.block2{
+
+    background: linear-gradient(0deg, #7854F7, #7854F7),
+    linear-gradient(0deg, #E8E8E8, #E8E8E8);
+    
+
+
+
+}
+
+.all{
+
+
+    font-family: Poppins;
+
+}
+
+.pr2{
+
+    font-family: DM Sans;
+
+}
+
